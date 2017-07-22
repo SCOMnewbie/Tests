@@ -6,10 +6,10 @@ Then I'll add a simple list:
  
 * List Item 1
 * A second.
-* A third, with a [blah](Tests/blob/master/img/1.JPG)
+* A third, with a [blah](img/1.JPG)
 
 But we can also test like this  
 
-![blah](Tests/blob/master/img/1.JPG)
+![blah](img/1.JPG)
 
 pretty cool
