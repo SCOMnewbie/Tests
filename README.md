@@ -10,6 +10,7 @@ Then I'll add a simple list:
 
 But we can also test like this  
 
-![blah](img/1.JPG) {width=40px height=400px}
+![blah](img/1.JPG)
+<img src="img/1.JPG" width="100">
 
 pretty cool
