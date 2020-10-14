@@ -10,6 +10,6 @@ Then I'll add a simple list:
 
 But we can also test like this  
 
-![blah](img/1.JPG | width=100)
+![blah](img/1.JPG =250x250)
 
 pretty cool
